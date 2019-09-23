@@ -14,8 +14,8 @@ board.
 
 ### Content
 
-* [Index Page](index.html) - this is the HTML page that houses all of the HTML script for building the 
-foundation of the game itself.
+* [Index Page](index.html) - this is the page that houses all of the HTML script for building the 
+foundation of the game itself; this includes the board, cards, icons, stars, etc.
 * [CSS Page](css/app.css) - this is the styling page for the HTML page; this page contains all of the styling for the index page
 and the game board activity. This includes not only colors and pictures but also the animations for the cards flipping and mathching.
 * [JavaScript Page](js/app.js) - this is the JavaScript coded page that controls the game board. This contains all the variables, 
