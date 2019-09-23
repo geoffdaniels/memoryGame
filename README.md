@@ -22,14 +22,6 @@ and the game board activity. This includes not only colors and pictures but also
 functions, and connections between all the pages to make the game playable.
 * [Geometry2.png](img/geometry2.png) - this is the image for the background of the gameboard shown on the index.html.
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
 ## Buildout
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+I started the project by looking over all three files (index.html, app.css and app.js); after reviewing the connection between them I loaded the html page and attempted to manipulate the game board. I then used Chrome's Dev tools to inspect everything I could and began code out from there.
