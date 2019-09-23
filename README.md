@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Content](#content)
-* [Build Process](#build%20process)
+* [Buildout](#buildout)
 
 
 ## Instructions
@@ -28,7 +28,7 @@ To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Build Process
+## Buildout
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
