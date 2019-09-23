@@ -25,3 +25,7 @@ functions, and connections between all the pages to make the game playable.
 ## Buildout
 
 I started the project by looking over all three files (index.html, app.css and app.js); after reviewing the connection between them I loaded the html page and attempted to manipulate the game board. I then used Chrome's Dev tools to inspect everything I could and began code out from there.
+
+I reviewed lessons within the Udacity Front End Web Dev course on loops, arrays, setTimeOut and other functions to create connections between functions themselves, the css page and html page.
+
+It was a constant back and forth of scripting in Atom, saving and refreshing in Chrome and then utilizing the console in Chrome to research changes and functions
