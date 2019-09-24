@@ -5,6 +5,7 @@
 * [Instructions](#instructions)
 * [Content](#content)
 * [Buildout](#buildout)
+* [Resources](#Resources)
 
 
 ## Instructions
@@ -28,4 +29,8 @@ I started the project by looking over all three files (index.html, app.css and a
 
 I reviewed lessons within the Udacity Front End Web Dev course on loops, arrays, setTimeOut and other functions to create connections between functions themselves, the css page and html page.
 
-It was a constant back and forth of scripting in Atom, saving and refreshing in Chrome and then utilizing the console in Chrome to research changes and functions
+It was a constant back and forth of scripting in Atom, saving and refreshing in Chrome and then utilizing the console in Chrome to research changes and functions to attain proper game functions.
+
+## Resources
+
+I reviewed lessons and videos within Udacity for clarification as well as the documentation on w3schools.com and mozilla's JS documentation to validate workings of functions and arguments.
