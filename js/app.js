@@ -183,7 +183,9 @@ function matchCheck() {
     clearOpen();
     matchingCards++;
     if (matchingCards == 8) {
-      displayFinished();
+      setTimeout(function(e) {
+        displayFinished();
+      },500);
     };
     //IF THEY DON'T MATCH; DISPLAY MESSAGE, ADD NOMATCH CLASS, TOGGLE CARDS OFF
     //REMOVE CLASS, RESET OPEN [] AND DELAY FOR 750ms
